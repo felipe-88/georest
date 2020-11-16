@@ -1,4 +1,4 @@
-# Geo Rest
+# Geo Rest (under construction)
 Geospatial Rest API Demo project for Spring Boot 
 (inspired by https://github.com/ZXVentures/ze-code-challenges)
 	
